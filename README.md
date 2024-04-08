@@ -2,8 +2,11 @@
 
 ## Tabla de Contenido
 1. [Descripción](#descripción)
-2. [Información Profesional](#información-profesional)
-3. [Contacto](#contacto)
+2. [Aplicaciones](#aplicaciones)
+    - [VueJS](#vuejs)
+    - [FastAPI](#fastapi)
+3. [Información Profesional](#información-profesional)
+4. [Contacto](#contacto)
 
 ## Descripción
 Aquí encontrarás una serie de aplicaciones desarrolladas con Vue.js, FastAPI y Flutter. Estas aplicaciones son proyectos personales que he desarrollado con el fin de aprender y mejorar mis habilidades en el desarrollo de software. Si lo puedes imaginar, lo podemos crear juntos.
