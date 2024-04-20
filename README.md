@@ -40,7 +40,7 @@ Soy un desarrollador con experiencia en la creación de sitios web y aplicacione
 ](https://fastapi.tiangolo.com/) [![Static Badge](https://img.shields.io/badge/Django-gray?style=flat&logo=django&logoColor=green)
 ](https://www.djangoproject.com/) [![Static Badge](https://img.shields.io/badge/MongoDB-gray?style=flat&logo=mongodb&logoColor=green)
 ](https://www.mongodb.com/) [![Static Badge](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white)
-](https://www.mysql.com/)
+](https://www.mysql.com/)  
   Desarrollo de aplicaciones móviles con [![Static Badge](https://img.shields.io/badge/Flutter-gray?style=flat&logo=flutter&logoColor=blue)
 ](https://flutter.dev/) en [![Static Badge](https://img.shields.io/badge/Android-gray?style=flat&logo=android&logoColor=green)
 ](https://www.android.com/intl/es_es/)   
