@@ -33,8 +33,10 @@ Aquí encontrarás una serie de aplicaciones desarrolladas con Vue.js, FastAPI y
 ## Información Profesional
 Soy un desarrollador con experiencia en la creación de sitios web y aplicaciones móviles para pequeñas y medianas empresas. Si puedes imaginarlo, juntos podemos hacerlo realidad.
 
-He trabajado con VueJs, HTML, CSS y SEO.  
-He trabajado con Python, FastAPI, Django, MongoDB y MySQL.  
+- He trabajado con [![Static Badge](https://img.shields.io/badge/VueJs-gray?style=flat&logo=vue.js&logoColor=green)](https://vuejs.org/), [![Static Badge](https://img.shields.io/badge/HTML-gray?style=flat&logo=html5&logoColor=red)](https://developer.mozilla.org/es/docs/Web/HTML)
+, [![Static Badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=blue)
+](https://developer.mozilla.org/es/docs/Web/CSS)  
+-  He trabajado con Python, FastAPI, Django, MongoDB y MySQL.  
 Desarrollo de aplicaciones móviles con Flutter (Android e iOS).  
 La comunicación regular es importante para mí, así que mantengámonos en contacto.  
 
