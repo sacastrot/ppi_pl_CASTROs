@@ -33,12 +33,20 @@ Aquí encontrarás una serie de aplicaciones desarrolladas con Vue.js, FastAPI y
 ## Información Profesional
 Soy un desarrollador con experiencia en la creación de sitios web y aplicaciones móviles para pequeñas y medianas empresas. Si puedes imaginarlo, juntos podemos hacerlo realidad.
 
-- He trabajado con [![Static Badge](https://img.shields.io/badge/VueJs-gray?style=flat&logo=vue.js&logoColor=green)](https://vuejs.org/), [![Static Badge](https://img.shields.io/badge/HTML-gray?style=flat&logo=html5&logoColor=red)](https://developer.mozilla.org/es/docs/Web/HTML)
-, [![Static Badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=blue)
-](https://developer.mozilla.org/es/docs/Web/CSS)  
--  He trabajado con Python, FastAPI, Django, MongoDB y MySQL.  
-Desarrollo de aplicaciones móviles con Flutter (Android e iOS).  
-La comunicación regular es importante para mí, así que mantengámonos en contacto.  
+
+ He trabajado con [![Static Badge](https://img.shields.io/badge/VueJs-gray?style=flat&logo=vue.js&logoColor=green)](https://vuejs.org/) [![Static Badge](https://img.shields.io/badge/HTML-gray?style=flat&logo=html5&logoColor=red)](https://developer.mozilla.org/es/docs/Web/HTML)
+ [![Static Badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=blue)
+](https://developer.mozilla.org/es/docs/Web/CSS)[![Static Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![Static Badge](https://img.shields.io/badge/fastAPI-gray?style=flat&logo=fastAPI&logoColor=green)
+](https://fastapi.tiangolo.com/) [![Static Badge](https://img.shields.io/badge/Django-gray?style=flat&logo=django&logoColor=green)
+](https://www.djangoproject.com/) [![Static Badge](https://img.shields.io/badge/MongoDB-gray?style=flat&logo=mongodb&logoColor=green)
+](https://www.mongodb.com/) [![Static Badge](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white)
+](https://www.mysql.com/)
+  Desarrollo de aplicaciones móviles con [![Static Badge](https://img.shields.io/badge/Flutter-gray?style=flat&logo=flutter&logoColor=blue)
+](https://flutter.dev/) en [![Static Badge](https://img.shields.io/badge/Android-gray?style=flat&logo=android&logoColor=green)
+](https://www.android.com/intl/es_es/)   
+
+
+  La comunicación regular es importante para mí, así que mantengámonos en contacto.  
 
 - **Nombre:** Santiago Castro Tabares
 - **Profesión:** Estudiante de Ingeniería de Sistemas e Informática en la Univseridad Nacional de Colombia.
