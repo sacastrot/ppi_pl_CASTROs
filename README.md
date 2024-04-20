@@ -5,6 +5,7 @@
 2. [Aplicaciones](#aplicaciones)
     - [VueJS](#vuejs)
     - [FastAPI](#fastapi)
+    - [Flutter](#flutter)
 3. [Información Profesional](#información-profesional)
 4. [Contacto](#contacto)
 
