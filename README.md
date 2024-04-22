@@ -58,4 +58,5 @@ Soy un desarrollador con experiencia en la creación de sitios web y aplicacione
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/sacastrot)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/santiago-castro-tabares/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-blue?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/19891867/santiago)
+[![Upwork](https://img.shields.io/badge/Upwork-profile-blue?logo=upwork)](https://www.upwork.com/freelancers/~019756bad70c98fd9a?mp_source=share)
 
