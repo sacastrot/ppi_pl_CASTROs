@@ -21,6 +21,7 @@ Aquí encontrarás una serie de aplicaciones desarrolladas con Vue.js, FastAPI y
 ### FastAPI
 - [Backend Taskaroo](https://github.com/sacastrot/taskaroo-backend) - API RESTful para la aplicación Taskaroo. Esta API fue desarrollada con FastAPI y permite a los usuarios realizar operaciones CRUD sobre las tareas.
 - [Demo Taskaroo Backend](https://www.youtube.com/watch?v=qD794SiPgqw) - Demo de la aplicación Taskaroo Backend.
+- [Landing Page Kor-T Laser](https://kortlaser.organizador.seguridadsis.com/)
 
 ### Flutter
 - [Sleep App](https://github.com/sacastrot/sleep-app/tree/main) - Aplicación mobile, desarrollada con Flutter. Esta aplicación permite controlar los ciclos de sueños al momento de dormir
