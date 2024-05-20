@@ -17,8 +17,8 @@ Aquí encontrarás una serie de aplicaciones desarrolladas con Vue.js, FastAPI y
 ### VueJS
 - [Frontend Taskaroo](https://github.com/sacastrot/taskaroo-frontend) - Frontend de la aplicación Taskaroo, desarrollado con Vue.js. Esta aplicación es un gestor de tareas que permite a los usuarios crear, y editar tareas.
 - [Demo Taskaroo Frontend](https://youtu.be/w2v9pUeG8lo) - Demo de la aplicación Taskaroo Frontend.
-- [Frontend ValleyRoute](https://github.com/sacastrot/valley-route-f) - Frontend de la aplicación ValleyRoute, desarrollado con Vue.js. Esta aplicación permite a los usuarios crear paquetes a enviar entre diferentes puntos de control del Vablle de Aburrá, conocer la ruta que van a tomar, la distancia que va a recorrer el paquete y estadísticaas de los paquetes enviados. Está funcionando en el [sitio web](http://valleyweb.s3-website-us-east-1.amazonaws.com/welcome)
 - [Landing Page Kor-T Laser](https://kortlaser.organizador.seguridadsis.com/) - Presentación de un producto para la empresa Kor-T Laser
+- [Frontend ValleyRoute](https://github.com/sacastrot/valley-route-f) - Frontend de la aplicación ValleyRoute, desarrollado con Vue.js. Esta aplicación permite a los usuarios crear paquetes a enviar entre diferentes puntos de control del Vablle de Aburrá, conocer la ruta que van a tomar, la distancia que va a recorrer el paquete y estadísticaas de los paquetes enviados. Está funcionando en el [sitio web](http://valleyweb.s3-website-us-east-1.amazonaws.com/welcome)
 
 ### FastAPI
 - [Backend Taskaroo](https://github.com/sacastrot/taskaroo-backend) - API RESTful para la aplicación Taskaroo. Esta API fue desarrollada con FastAPI y permite a los usuarios realizar operaciones CRUD sobre las tareas.
