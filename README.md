@@ -17,10 +17,12 @@ Aquí encontrarás una serie de aplicaciones desarrolladas con Vue.js, FastAPI y
 ### VueJS
 - [Frontend Taskaroo](https://github.com/sacastrot/taskaroo-frontend) - Frontend de la aplicación Taskaroo, desarrollado con Vue.js. Esta aplicación es un gestor de tareas que permite a los usuarios crear, y editar tareas.
 - [Demo Taskaroo Frontend](https://youtu.be/w2v9pUeG8lo) - Demo de la aplicación Taskaroo Frontend.
+- [Frontend ValleyRoute](https://github.com/sacastrot/valley-route-f) - Frontend de la aplicación ValleyRoute, desarrollado con Vue.js. Esta aplicación permite a los usuarios crear paquetes a enviar entre diferentes puntos de control del Vablle de Aburrá, conocer la ruta que van a tomar, la distancia que va a recorrer el paquete y estadísticaas de los paquetes enviados. Está funcionando en el [sitio web](http://valleyweb.s3-website-us-east-1.amazonaws.com/welcome)
 
 ### FastAPI
 - [Backend Taskaroo](https://github.com/sacastrot/taskaroo-backend) - API RESTful para la aplicación Taskaroo. Esta API fue desarrollada con FastAPI y permite a los usuarios realizar operaciones CRUD sobre las tareas.
 - [Demo Taskaroo Backend](https://www.youtube.com/watch?v=qD794SiPgqw) - Demo de la aplicación Taskaroo Backend.
+- [Backend ValleyRoute](https://github.com/sacastrot/ppi_dai_CASTROs) - API RESTful para la aplicación ValleyRoute. Esta API fue desarrollada con FastAPI y permite a los usuarios realizar operaciones CRUD sobre los paquetes a enviar y los puntos de control del Valle de Aburrá. Está funcionando con OnRender en [sitio web](https://ppi-dai-castros.onrender.com/docs)
 
 ### Flutter
 - [Sleep App](https://github.com/sacastrot/sleep-app/tree/main) - Aplicación mobile, desarrollada con Flutter. Esta aplicación permite controlar los ciclos de sueños al momento de dormir
